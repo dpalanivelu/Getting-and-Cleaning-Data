@@ -8,7 +8,7 @@ The dataset used for the course project is to track Human Activity Recognition U
 
 ## Files
 
-The code assumes all the data are present in the same folder, un-compressed and without names altered.
+The code assumes all the data is present in the same folder in raw form and without files names altered.
 
 `CodeBook.md` describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
