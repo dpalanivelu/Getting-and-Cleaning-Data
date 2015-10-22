@@ -3,9 +3,9 @@
 The script `run_analysis.R`performs the 5 steps described in the course project's instruction
 
 * Rbind() function is used to merge similar data.
-* Then, only those columns with the mean and standard deviation measures are taken from the whole dataset. After extracting these columns, they are given the correct names, taken from `features.txt`.
-* Apply descriptive activity names and IDs to the data set by reafing the values from from `activity_labels.txt`.
-* Appropriately label the data set with descriptive variable names.
+* Only those columns with the mean and standard deviation measures are taken from the whole dataset. After extracting these columns, the correct column names are assigned, taken from `features.txt`.
+* Dscriptive activity names are and IDs are applied to the data set by reading the values from from `activity_labels.txt`.
+* The data set is appropriately labeled with descriptive variable names.
 * Finally the code generates a new dataset with all the average measures for each subject and activity type. The output file is called `averagesdata.txt` and uploaded to the repository.
 
 # Variables
